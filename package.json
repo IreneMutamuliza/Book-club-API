@@ -1,0 +1,21 @@
+{
+  "name": "bookclubapi",
+  "version": "1.0.0",
+  "description": "An API for our book club app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "book",
+    "club",
+    "API"
+  ],
+  "author": "Irene Mutamuliza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
